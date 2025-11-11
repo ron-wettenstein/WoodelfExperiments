@@ -3,7 +3,6 @@ Experiments performed with the Woodelf algorithm as part of the paper “From De
 
 The notebooks were executed on Google Colab. The runtime type (CPU, high-memory CPU, GPU, etc.) and other technical details are documented within the notebooks, in the paper, and in its full version.
 
-```markdown
 We also published a Python package containing our latest code:  
 **[WoodElf Python Package](https://github.com/ron-wettenstein/woodelf)**
 
