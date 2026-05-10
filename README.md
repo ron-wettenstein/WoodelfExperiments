@@ -16,7 +16,7 @@ All notebooks were executed on Google Colab. The runtime configuration (CPU, hig
 ### The Woodelf Package
 
 We also published a Python package containing our latest code:  
-**[WoodElf Python Package](https://github.com/ron-wettenstein/woodelf)**
+**[Woodelf Python Package](https://github.com/ron-wettenstein/woodelf)**
 
 Install it using:
 ```bash
